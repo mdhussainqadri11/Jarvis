@@ -29,7 +29,7 @@ Clone or Download the Project:
 You can either clone the repository or download the Python files to your local machine.
 To clone via Git:
 ```sh
-git clone https://github.com/your-repository-url.git
+git clone https://github.com/mdhussainqadri11/Jarvis.git
 ```
 ## Install Dependencies
 
